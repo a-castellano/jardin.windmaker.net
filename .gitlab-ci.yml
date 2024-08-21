@@ -17,9 +17,11 @@ build:
 deploy:
   stage: deploy
   before_script:
-    - echo "test"
+    - mkdir .ssh
+    - cat ${PRIVATE_SSH_KEY} > .ssh/id_rsa.pub
+    - chmod 400 .ssh/id_rsa.pub
   script:
-    - ls -lahrt public
+    - rsync -a --delete public/ ${SSH_USER}@${SSH_HOST}:${DOC_ROOT}/
   dependencies:
   - build
 
