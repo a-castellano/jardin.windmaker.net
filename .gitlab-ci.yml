@@ -8,6 +8,11 @@ build:
   stage: build
   script:
     - hugo
+  artifacts:
+    name: "build-$CI_PIPELINE_ID"
+    paths:
+      - public
+    expire_in: 10 minutes
 
 deploy:
   stage: deploy
