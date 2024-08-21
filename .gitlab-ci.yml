@@ -1,0 +1,20 @@
+image: registry.windmaker.net:5005/a-castellano/limani/base_hugo:202408211859
+
+stages:
+    - build
+    - deploy
+
+build:
+  stage: build
+  script:
+    - hugo
+
+deploy:
+  stage: deploy
+  before_script:
+    - echo "test"
+  script:
+    - ls -lahrt public
+  dependencies:
+  - build
+
