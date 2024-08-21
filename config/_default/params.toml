@@ -1,0 +1,86 @@
+[main]
+    separator = "-"
+    description = "Anotaciones de nuestro jardín"
+    enableDarkMode = true
+    enableLanguageSelectionStorage = false
+    modes = ["light", "dark"]
+    canonifyAssetsURLs = false
+    endorse = true
+    footerBelowFold = false
+    loading = "lazy"
+    breakpoint = "md"
+    [main.externalLinks]
+        cue = false
+        tab = false
+    [main.build]
+        transpiler = "libsass"
+
+[navigation]
+    anchor = true
+    logo = "/logo/logo.svg"
+    color = "body"
+    fixed = true
+    overlay = false
+    overlayMode = "dark"
+    horizontal = false
+    offset = "5.5rem"
+    search = true
+    searchModal = false
+    breadcrumb = true
+    toc = true
+    sidebar = true
+    size = "md"
+
+[home]
+    sections = ["zonas","plantas"]
+    fullCover = false
+    centerHeadline = false
+    style = ""
+    [home.feature]
+        orientation = "horizontal"
+        color = "primary"
+        width = 4
+        align = "start"
+
+[sections]
+    [sections.zonas]
+        title = "Zonas del jardin"
+        layout = "card"
+        sort = "date"
+        reverse = true
+        background = ""
+        color = "body-tertiary"
+        style = "border-0 shadow card-zoom card-body-margin"
+        cols = 3
+        padding = "3"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        homepage = 3
+    [sections.plantas]
+        title = "Plantas"
+        layout = "card"
+        sort = "date"
+        reverse = true
+        background = ""
+        color = "body-tertiary"
+        style = "border-0 shadow card-zoom card-body-margin"
+        cols = 3
+        padding = "3"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        homepage = 3
+
+[sharing]
+    enabled = true
+    sort = "weight"
+    reverse = false
+    webshare = true
+
+[[sharing.providers]]
+    name = "email"
+    url = "{url}"
+    icon = "fas link"
+    weight = 50
+    clipboard = true

@@ -1,0 +1,7 @@
+title = "Jardín"
+copyright = "Copyright © 2024 Windmaker."
+paginate = 9
+enableGitInfo = false
+languageCode = "es-es"
+defaultContentLanguage = "es"
+defaultContentLanguageInSubdir = false

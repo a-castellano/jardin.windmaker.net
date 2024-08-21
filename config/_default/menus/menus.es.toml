@@ -1,0 +1,9 @@
+[[main]]
+  name = "Zonas"
+  pageRef = "/zonas/"
+  weight = 10
+
+[[main]]
+  name = "Plantas"
+  pageRef = "/plantas/"
+  weight = 10
