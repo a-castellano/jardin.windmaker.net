@@ -5,6 +5,7 @@ thumbnail:
     url: /img/zonas/cespedjardinera/cespedjardinera.jpg
     author: Álvaro Castellano
 description: La zona del cesped y la jardinera
+tags: ["zonas", "cesped", "jardinera"]
 ---
 
 

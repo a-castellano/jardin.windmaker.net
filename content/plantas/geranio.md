@@ -5,6 +5,7 @@ thumbnail:
     url: /img/plantas/geranio/geranio.jpg
     author: Álvaro Castellano
 description: Anotaciones sobre los geranios de casa
+tags: ["plantas", "geranios"]
 ---
 
 El género *Geranium*, comúnmente llamado *geranio*, agrupa 422 especies de plantas anuales, bienales y perennes frecuentemente utilizadas en jardinería por sus atractivas flores y su aroma característico. 

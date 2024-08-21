@@ -32,7 +32,7 @@
     size = "md"
 
 [home]
-    sections = ["zonas","plantas"]
+    sections = ["zonas","plantas","productos","tags"]
     fullCover = false
     centerHeadline = false
     style = ""
@@ -59,6 +59,20 @@
         homepage = 3
     [sections.plantas]
         title = "Plantas"
+        layout = "card"
+        sort = "date"
+        reverse = true
+        background = ""
+        color = "body-tertiary"
+        style = "border-0 shadow card-zoom card-body-margin"
+        cols = 3
+        padding = "3"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        homepage = 3
+    [sections.productos]
+        title = "Productos"
         layout = "card"
         sort = "date"
         reverse = true
