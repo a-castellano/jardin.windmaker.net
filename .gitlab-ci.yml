@@ -18,8 +18,8 @@ deploy:
   stage: deploy
   before_script:
     - mkdir .ssh
-    - cat ${PRIVATE_SSH_KEY} > .ssh/id_rsa.pub
-    - chmod 400 .ssh/id_rsa.pub
+    - cat ${PRIVATE_SSH_KEY} > .ssh/id_rsa
+    - chmod 400 .ssh/id_rsa
   script:
     - rsync -e "ssh -o StrictHostKeyChecking=no" -a --delete public/ ${SSH_USER}@${SSH_HOST}:${DOC_ROOT}/
   dependencies:
