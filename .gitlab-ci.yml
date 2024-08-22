@@ -24,4 +24,5 @@ deploy:
     - rsync -e "ssh -i \"${PRIVATE_SSH_KEY}\" -o StrictHostKeyChecking=no -o PubKeyAcceptedAlgorithms=+ssh-rsa" -a --delete release/ ${SSH_USER}@${SSH_HOST}:${DOC_ROOT}/
   dependencies:
   - build
-
+  only:
+  - master
