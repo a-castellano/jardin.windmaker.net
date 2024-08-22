@@ -21,7 +21,7 @@ deploy:
     - chmod 400 ${PRIVATE_SSH_KEY}
     - ssh -vv -i ${PRIVATE_SSH_KEY} -o StrictHostKeyChecking=no ${SSH_USER}@${SSH_HOST} ls -lahrt
   script:
-    - rsync -e "ssh -i \"${PRIVATE_SSH_KEY}\"" -e "ssh -o StrictHostKeyChecking=no" -a --delete release/ ${SSH_USER}@${SSH_HOST}:${DOC_ROOT}/
+    - rsync -e "ssh -i \"${PRIVATE_SSH_KEY}\" -o StrictHostKeyChecking=no -o PubKeyAcceptedAlgorithms=+ssh-rsa" -a --delete release/ ${SSH_USER}@${SSH_HOST}:${DOC_ROOT}/
   dependencies:
   - build
 
