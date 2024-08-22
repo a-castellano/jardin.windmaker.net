@@ -18,11 +18,7 @@ build:
 deploy:
   stage: deploy
   before_script:
-    - mkdir .ssh
-    - cat ${PRIVATE_SSH_KEY} > .ssh/id_rsa
-    - chmod 400 .ssh/id_rsa
-    - ls ${PRIVATE_SSH_KEY}
-    - cat ${PRIVATE_SSH_KEY}
+    - ssh -vv -i ${PRIVATE_SSH_KEY} ${SSH_USER}@${SSH_HOST} ls -lahrt
   script:
     - rsync -e "ssh -i $(pwd)/.ssh/id_rsa" -e "ssh -o StrictHostKeyChecking=no" -a --delete release/ ${SSH_USER}@${SSH_HOST}:${DOC_ROOT}/
   dependencies:
