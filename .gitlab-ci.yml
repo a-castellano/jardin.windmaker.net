@@ -21,6 +21,8 @@ deploy:
     - mkdir .ssh
     - cat ${PRIVATE_SSH_KEY} > .ssh/id_rsa
     - chmod 400 .ssh/id_rsa
+    - ls ${PRIVATE_SSH_KEY}
+    - cat ${PRIVATE_SSH_KEY}
   script:
     - rsync -e "ssh -i $(pwd)/.ssh/id_rsa" -e "ssh -o StrictHostKeyChecking=no" -a --delete release/ ${SSH_USER}@${SSH_HOST}:${DOC_ROOT}/
   dependencies:
