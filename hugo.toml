@@ -1,6 +1,6 @@
 baseURL = 'https://jardin.windmaker.net/'
 languageCode = 'es-ES'
 title = 'Jardin'
+timeout= "3600s"
 [[module.imports]]
 path = 'github.com/gethinode/hinode'
-timeout= "3600s"
