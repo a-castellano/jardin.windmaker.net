@@ -22,7 +22,7 @@ Mejor podarla en Otoño, falta indicar como.
 
 En contra de lo que se suele escuchar en un vivero nos comentaron que esta planta se acostumbra al agua que le das, la regamos unas dos veces por semana de forma abundante en macetas que drenen. La mas longeva lleva con nosotros 3 años.
 
-En cuanto necesitan agua te lo hace saber, las hojas se pochan, al dia siguiente del riego recuperan vitalidad.
+En cuanto necesitan agua te lo hace saber, las hojas se pochan, al día siguiente del riego recuperan vitalidad.
 
 # Coloración de las hojas
 

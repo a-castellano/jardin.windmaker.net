@@ -12,7 +12,7 @@ El género *Geranium*, comúnmente llamado *geranio*, agrupa 422 especies de pla
 
 # Riego
 
-Lo regamos cada 2 días en Verano, con cuidado de no inundar la maceta que se cualga en la reja porque no drena.
+Lo regamos cada 2 días en Verano, con cuidado de no inundar la maceta que se cuelga en la reja porque no drena.
 
 # Cuidados
 

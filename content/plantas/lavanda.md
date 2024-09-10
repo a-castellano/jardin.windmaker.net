@@ -12,9 +12,9 @@ Lavandula es un género de plantas de la familia de las lamiáceas, que contiene
 
 # Variedades
 
-Por el momento tenemos dos variaedades de lavanta
+Por el momento tenemos dos variedades de lavanda.
 
 # Cuidados
 
-Al menos la lavanda "tradicional" (falta foto) requiere bastante agua, o mucho sol ya que si no se mantiene hidratada se seca rapido y se muere.
+Al menos la lavanda "tradicional" (falta foto) requiere bastante agua, o mucho sol ya que si no se mantiene hidratada se seca rápido y se muere.
 

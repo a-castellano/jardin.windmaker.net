@@ -1,16 +1,16 @@
 ---
-title: Cesped y Jardinera
+title: Césped y Jardinera
 date: 2024-08-15
 thumbnail:
     url: /img/zonas/cespedjardinera/cespedjardinera.jpg
     author: Álvaro Castellano
-description: La zona del cesped y la jardinera
+description: La zona del césped y la jardinera
 tags: ["zonas", "cesped", "jardinera"]
 ---
 
 # Instalación riego
 
-Se instaló riego con difusores para el cesped y riego por gaoteo para la jardinera.
+Se instaló riego con difusores para el césped y riego por goteo para la jardinera.
 
 {{< carousel class="col-sm-12 col-lg-8 mx-auto" >}}
   {{< img src="/img/zonas/cespedjardinera/carruseles/riego/Instalacion_riego01.jpg" caption="Instalación del riego - 08/2024" >}}
@@ -33,7 +33,7 @@ Se ha instalado alumbrado mediante tiras LED en la jardinera
 
 # Separación de zonas
 
-El cesped se separa de la zona del jazmin y de los chiles con tejas.
+El cesped se separa de la zona del jazmín y de los chiles con tejas.
 
 {{< image src="/img/zonas/cespedjardinera/Instalacion_tejas_01.jpg" caption="Medida de las tejas" >}}
 {{< image src="/img/zonas/cespedjardinera/Instalacion_tejas_02.jpg" caption="Medida de las tejas" >}}

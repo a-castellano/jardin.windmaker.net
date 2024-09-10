@@ -8,4 +8,4 @@ description: Anotaciones sobre la planta de Hierba buena
 tags: ["plantas", "hierba", "buena"]
 ---
 
-Cuidado, es com una mala hierba que acabará moltiplicandose por todo el terreno.
+Cuidado, es como una mala hierba que acabará multiplicandose por todo el terreno.

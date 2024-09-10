@@ -12,4 +12,4 @@ tags: ["plantas", "aloe", "vera"]
 
 # Riego
 
-Pendiete de revisar, no tiene manguera propia.
+Pendiente de revisar, no tiene manguera propia.

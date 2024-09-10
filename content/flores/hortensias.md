@@ -12,7 +12,7 @@ El género Hydrangea incluye plantas ornamentales, comúnmente conocidas como ho
 
 # Iluminación
 
-En verano no puede recibir luz del sol directa, se quema.
+En verano no puede recibir luz del sol directa, se quema
 
 # Floración
 
