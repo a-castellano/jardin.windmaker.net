@@ -1,9 +1,24 @@
 [[main]]
   name = "Zonas"
   pageRef = "/zonas/"
-  weight = 10
+  weight = 12
 
 [[main]]
   name = "Plantas"
   pageRef = "/plantas/"
+  weight = 11
+
+[[main]]
+  name = "Flores"
+  pageRef = "/flores/"
   weight = 10
+
+[[main]]
+  name = "Productos"
+  pageRef = "/productos/"
+  weight = 13
+
+[[main]]
+  name = "Otros"
+  pageRef = "/otros/"
+  weight = 14
