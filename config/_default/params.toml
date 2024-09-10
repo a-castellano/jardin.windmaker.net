@@ -32,7 +32,7 @@
     size = "md"
 
 [home]
-    sections = ["zonas","plantas","productos","tags"]
+    sections = ["flores","plantas","zonas","productos","otros","tags"]
     fullCover = false
     centerHeadline = false
     style = ""
@@ -51,12 +51,13 @@
         background = ""
         color = "body-tertiary"
         style = "border-0 shadow card-zoom card-body-margin"
-        cols = 3
+        cols = 5
+        rows = 2
         padding = "3"
         header = "full"
         footer = "none"
         orientation = "stacked"
-        homepage = 3
+        homepage = 4
     [sections.plantas]
         title = "Plantas"
         layout = "card"
@@ -65,12 +66,13 @@
         background = ""
         color = "body-tertiary"
         style = "border-0 shadow card-zoom card-body-margin"
-        cols = 3
+        cols = 5
+        rows = 2
         padding = "3"
         header = "full"
         footer = "none"
         orientation = "stacked"
-        homepage = 3
+        homepage = 4
     [sections.productos]
         title = "Productos"
         layout = "card"
@@ -79,12 +81,42 @@
         background = ""
         color = "body-tertiary"
         style = "border-0 shadow card-zoom card-body-margin"
-        cols = 3
+        cols = 5
+        rows = 2
         padding = "3"
         header = "full"
         footer = "none"
         orientation = "stacked"
-        homepage = 3
+        homepage = 4
+    [sections.otros]
+        title = "Otros"
+        layout = "card"
+        sort = "date"
+        reverse = true
+        background = ""
+        color = "body-tertiary"
+        style = "border-0 shadow card-zoom card-body-margin"
+        cols = 5
+        rows = 2
+        padding = "3"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        homepage = 4
+    [sections.flores]
+        title = "Flores"
+        layout = "card"
+        sort = "date"
+        reverse = true
+        background = ""
+        color = "body-tertiary"
+        style = "border-0 shadow card-zoom card-body-margin"
+        cols = 4
+        padding = "3"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        homepage = 4
 
 [sharing]
     enabled = true
