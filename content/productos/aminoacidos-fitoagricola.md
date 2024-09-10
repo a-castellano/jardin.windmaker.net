@@ -1,8 +1,8 @@
 ---
 title: Aminoacidos Fitoagricola
-date: 2023-08-21
+date: 2024-08-21
 thumbnail:
-    url: /img/plantas/geranio/geranio.jpg
+    url: /img/productos/aminoacidos_fitoagricola/aminoacidos_fitoagricola_01.jpg
     author: Álvaro Castellano
 description: Nuestro fertilizante de confianza
 tags: ["fertilizantes", "productos"]

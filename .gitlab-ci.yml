@@ -1,19 +1,7 @@
 image: registry.windmaker.net:5005/a-castellano/limani/base_hugo:202408211952
 
 stages:
-    - build
     - deploy
-
-build:
-  stage: build
-  script:
-    - hugo
-    - mv public release
-  artifacts:
-    name: "build-$CI_PIPELINE_ID"
-    paths:
-      - release
-    expire_in: 10 minutes
 
 deploy:
   stage: deploy
@@ -21,8 +9,6 @@ deploy:
     - chmod 400 ${PRIVATE_SSH_KEY}
     - ssh -vv -i ${PRIVATE_SSH_KEY} -o StrictHostKeyChecking=no ${SSH_USER}@${SSH_HOST} ls -lahrt
   script:
+    - hugo
+    - mv public release
     - rsync -e "ssh -i \"${PRIVATE_SSH_KEY}\" -o StrictHostKeyChecking=no -o PubKeyAcceptedAlgorithms=+ssh-rsa" -a --delete release/ ${SSH_USER}@${SSH_HOST}:${DOC_ROOT}/
-  dependencies:
-  - build
-  only:
-  - master
