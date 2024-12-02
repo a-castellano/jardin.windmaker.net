@@ -1,4 +1,4 @@
-image: registry.windmaker.net:5005/a-castellano/limani/base_hugo:202408211952
+image: registry.windmaker.net:5005/a-castellano/limani/base_hugo:202411292103
 
 stages:
     - deploy

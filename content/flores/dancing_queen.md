@@ -21,6 +21,7 @@ No debe recibir luz directa.
 # Fotos
 
 {{< carousel class="col-sm-12 col-lg-8 mx-auto" >}}
+  {{< img src="/img/flores/dancing_queen/carruseles/dancing_queen_00.jpg" caption="Bulbo - 10/2023" >}}
   {{< img src="/img/flores/dancing_queen/carruseles/dancing_queen_03.jpg" caption="Primera floración - 03/2024" >}}
   {{< img src="/img/flores/dancing_queen/carruseles/dancing_queen_02.jpg" caption="Primeras flores - 04/2024" >}}
 {{< /carousel >}}
