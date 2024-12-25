@@ -84,7 +84,7 @@ Consejo de un amigo, si se han perdido raices, hay que quitarle ramas, la planta
 
 Y no se murió, a finales de Marzo empezó a tener nuevos brotes y poco a poco, duarnte todo el año las hojas han vuelto a crecer.
 {{< carousel class="col-sm-12 col-lg-8 mx-auto" >}}
-{{< img src="/img/plantas/aguacate/guacate_20240330_1.jpg" caption="30-03-2024" >}}
+{{< img src="/img/plantas/aguacate/aguacate_20240330_1.jpg" caption="30-03-2024" >}}
 {{< img src="/img/plantas/aguacate/aguacate_20240407.jpg" caption="07-04-2024" >}}
 {{< img src="/img/plantas/aguacate/aguacate_20240604.jpg" caption="04-06-2024" >}}
 {{< /carousel >}}

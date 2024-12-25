@@ -27,3 +27,14 @@ A fianles de primavera empiezarona florecer y a dar fruto:
 {{< img src="/img/plantas/habanero/habaneros_20220730.jpg" caption="Flores - 07/2022" >}}
 {{< img src="/img/plantas/habanero/habaneros_20220730_2.jpg" caption="Primer chile - 07/2022" >}}
 {{< /carousel >}}
+
+# Mayo 2024 - Segundos chiles
+
+No tengo muy claro por qué pero arracamos las plantas de los chiles, compramos otra juanto a una mata de {{< link "/plantas/carolina_reaper/" >}}Carolina Reaper{{< /link >}}.
+
+Al igual que los de año pasado estos emepzaron a florecer a dar fruto durante casi todo el año, en Noviembre de 2024 hemos llegado a recoger chiles.
+
+{{< carousel class="col-sm-12 col-lg-8 mx-auto" >}}
+{{< img src="/img/plantas/habanero/chiles_habaneros_20240613.jpg" caption="06/2024" >}}
+{{< img src="/img/plantas/habanero/habaneros_20220730_2.jpg" caption="Primer chile - 07/2022" >}}
+{{< /carousel >}}
