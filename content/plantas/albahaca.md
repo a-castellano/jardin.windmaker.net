@@ -23,3 +23,7 @@ Lo regamos cada 2 días en Verano.
 {{< carousel class="col-sm-12 col-lg-8 mx-auto" >}}
   {{< img src="/img/plantas/albahaca/carruseles/albahaca_cocinar_01.jpg" caption="Plantas de albahaca para cocinar - 09/2024" >}}
 {{< /carousel >}}
+
+# Muerte de la variedad para cocinar
+
+La variedad para cacinar es una planta de temporada, cuando termina el Verano se muere.
