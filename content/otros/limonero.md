@@ -2,7 +2,7 @@
 title: Limonero
 date: 2024-09-03
 thumbnail:
-  url: /img/otros/limonero/maceta_limonero_01.jpg
+  url: /img/otros/limonero/limonero_20241206.jpg
   author: Álvaro Castellano
 description: Anotaciones sobre nuestro limonero
 tags: ["limonero"]
