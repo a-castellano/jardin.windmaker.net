@@ -2,8 +2,8 @@
 title: Hortensias
 date: 2024-09-03
 thumbnail:
-    url: /img/flores/hortensias/hortensias_01.jpg
-    author: Álvaro Castellano
+  url: /img/flores/hortensias/hortensias_01.jpg
+  author: Álvaro Castellano
 description: Anotaciones sobre nuestras hortensias
 tags: ["flores", "hortensias"]
 ---
@@ -17,3 +17,8 @@ En verano no puede recibir luz del sol directa, se quema
 # Floración
 
 Florece, en algún momento que no recuerdo.
+
+# Fotos
+
+{{< image src="/img/flores/hortensias/hortensias_20230504.jpg">}}
+{{< image src="/img/flores/hortensias/hortensias_20230506.jpg">}}
