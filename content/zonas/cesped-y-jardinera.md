@@ -43,6 +43,7 @@ Se instaló riego con difusores para el césped y riego por goteo para la jardin
 {{< img src="/img/zonas/cespedjardinera/carruseles/riego/Instalacion_riego04.jpg" caption="Instalación del riego - 08/2024" >}}
 {{< img src="/img/zonas/cespedjardinera/carruseles/riego/riego_01.jpg" caption="Calibración de la electrovalvula - 08/2024" >}}
 {{< img src="/img/zonas/cespedjardinera/carruseles/riego/riego_02.jpg" caption="Riego por goteo - 08/2024" >}}
+{{< img src="/img/zonas/cespedjardinera/carruseles/riego/riego_20240901.jpg" caption="Tuberías de riego - 08/2024" >}}
 {{< /carousel >}}
 
 # Agosto 2024 - Alumbrado
