@@ -30,7 +30,7 @@ Salvo algunas plantas y el [limonero](/otros/limonero) no hicimos nada mas en es
 
 A principios de Agosto de 2024 nos contruyeron una jardinera.
 
-{{< image src="/img/zonas/cespedjardinera/jardinera_20240805jpg" caption="Jardinera" >}}
+{{< image src="/img/zonas/cespedjardinera/jardinera_20240805.jpg" caption="Jardinera" >}}
 
 # Agosto 2024 - Instalación riego
 
@@ -62,7 +62,7 @@ El cesped se separa de la zona del jazmín y de los chiles con tejas.
 {{< image src="/img/zonas/cespedjardinera/Instalacion_tejas_01.jpg" caption="Medida de las tejas" >}}
 {{< image src="/img/zonas/cespedjardinera/Instalacion_tejas_02.jpg" caption="Medida de las tejas" >}}
 
-Hemos añadido tela entre la tierra y pierdras blancas apra que no salgan malas hierbas. 
+Hemos añadido tela entre la tierra y pierdras blancas apra que no salgan malas hierbas.
 
 {{< image src="/img/zonas/cespedjardinera/jardinera_20240901_1.jpg" caption="Tejas colocadas" >}}
 
@@ -74,8 +74,6 @@ Hemos plantado cesped
 {{< img src="/img/zonas/cespedjardinera/carruseles/cesped/jardin_20240920.jpg" >}}
 {{< img src="/img/zonas/cespedjardinera/carruseles/cesped/jardinera_20240916_2.jpg" >}}
 {{< /carousel >}}
-
-
 
 # 2024 - Fotos
 

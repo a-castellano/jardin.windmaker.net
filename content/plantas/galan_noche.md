@@ -2,7 +2,7 @@
 title: Galan de noche
 date: 2024-12-28
 thumbnail:
-  url: /img/plantas/galan_noche/damadenoche_20230608_205135_1.jpg
+  url: /img/plantas/galan_noche/damadenoche_20230717.jpg
   author: Álvaro Castellano
 description: Anotaciones sobre nuestra dama de noche
 tags: ["plantas", "dama", "noche"]
