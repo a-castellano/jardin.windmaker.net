@@ -1,0 +1,7 @@
+baseURL = 'https://jardin.windmaker.net/'
+locale = 'es-ES'
+title = 'Jardin'
+[[module.imports]]
+path = 'github.com/gethinode/hinode/v2'
+[[module.imports]]
+path = "github.com/gethinode/mod-blocks"

@@ -1,0 +1,134 @@
+[main]
+    separator = "-"
+    description = "Anotaciones de nuestro jardín"
+    enableLanguageSelectionStorage = false
+    canonifyAssetsURLs = false
+    endorse = true
+    footerBelowFold = false
+    loading = "lazy"
+    breakpoint = "md"
+    [main.colorMode]
+        enabled = true
+        modes = ["light", "dark"]
+    [main.externalLinks]
+        cue = false
+        tab = false
+    [main.build]
+        transpiler = "dartsass"
+
+[navigation]
+    anchor = true
+    logo = "/logo/logo.svg"
+    color = "body"
+    fixed = true
+    overlay = false
+    overlayMode = "dark"
+    horizontal = false
+    offset = "5.5rem"
+    [navigation.search]
+        enabled = true
+        modal = false
+    breadcrumb = true
+    toc = true
+    sidebar = true
+    size = "md"
+
+[home]
+    sections = ["flores","plantas","zonas","productos","otros","tags"]
+    fullCover = false
+    centerHeadline = false
+    style = ""
+    [home.feature]
+        orientation = "horizontal"
+        color = "primary"
+        width = 4
+        align = "start"
+
+[sections]
+    [sections.zonas]
+        title = "Zonas del jardin"
+        layout = "card"
+        sort = "date"
+        reverse = true
+        background = ""
+        color = "body-tertiary"
+        style = "border-0 shadow card-zoom card-body-margin"
+        cols = 5
+        rows = 2
+        padding = "3"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        homepage = 4
+    [sections.plantas]
+        title = "Plantas"
+        layout = "card"
+        sort = "date"
+        reverse = true
+        background = ""
+        color = "body-tertiary"
+        style = "border-0 shadow card-zoom card-body-margin"
+        cols = 5
+        rows = 2
+        padding = "3"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        homepage = 4
+    [sections.productos]
+        title = "Productos"
+        layout = "card"
+        sort = "date"
+        reverse = true
+        background = ""
+        color = "body-tertiary"
+        style = "border-0 shadow card-zoom card-body-margin"
+        cols = 5
+        rows = 2
+        padding = "3"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        homepage = 4
+    [sections.otros]
+        title = "Otros"
+        layout = "card"
+        sort = "date"
+        reverse = true
+        background = ""
+        color = "body-tertiary"
+        style = "border-0 shadow card-zoom card-body-margin"
+        cols = 5
+        rows = 2
+        padding = "3"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        homepage = 4
+    [sections.flores]
+        title = "Flores"
+        layout = "card"
+        sort = "date"
+        reverse = true
+        background = ""
+        color = "body-tertiary"
+        style = "border-0 shadow card-zoom card-body-margin"
+        cols = 4
+        padding = "3"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        homepage = 4
+
+[sharing]
+    enabled = true
+    sort = "weight"
+    reverse = false
+    webshare = true
+
+[[sharing.providers]]
+    name = "email"
+    url = "{url}"
+    icon = "fas link"
+    weight = 50
+    clipboard = true
